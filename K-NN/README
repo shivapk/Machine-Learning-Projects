@@ -1,4 +1,5 @@
 # Machine-Learning-Projects
-1)K FOLD cross- validation
-2)ACCURACY OR CONFIDENCE
-3) ACCURACY ON TEST DATA WITH CROSS VALIDATION
+1)Testing K-NN with multiple distance metrics like Euclidean, Manhattan, Hamming
+2)Nested cross- validation to figure out hyperparameter K
+3)Accuray/Confidence
+4) Condensed Nearest Neighbor/ Weighted Distance K-NN
