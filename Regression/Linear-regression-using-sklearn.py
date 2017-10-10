@@ -1,7 +1,3 @@
-#Accuracy =R^2 = 0.0149091508145   (with normalizing)
-#Accuracy=R^2=0.00362668098257  ( without normalizing)
-#R^2 =1 is the best
-
 import numpy as np
 from math import sqrt
 from collections import Counter
