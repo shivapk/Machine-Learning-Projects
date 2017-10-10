@@ -3,4 +3,4 @@ Linear regression
 1)Implementing linear regression models for different data sets using the ordinary least
 squares (OLS) solution and Gradient descent
 2)Testing model on the test data and compute the residual sum of squares error (RSS) and measuring accuracy on Test and Train data.
-3) Applying Regularization techniques if we observe overfitting from the above 2nd point.
+3) Applying Regularization techniques if we observe overfitting during 2nd step.
