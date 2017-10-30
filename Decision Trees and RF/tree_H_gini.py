@@ -170,7 +170,7 @@ def Nodewise_acc_tree(data, attributes, target, node_count,best_count): #how man
     
 def run_decision_tree():
     attributes=['clump_thickness','uniformity_cell_size','uniformity_cell_shape','marginal_adhesion','single_epith_cell_size','bare_nuclei','bland_chrom','normal_nucleoli','mitoses','class']
-    df=pd.read_csv("C:/Users/MBD/Desktop/gre_college_applications/final-documents/TAMU/after-going-to-college/1st-sem/Machine Learning/project-2/hw2_question1.csv",names=attributes)
+    df=pd.read_csv("cancer.csv",names=attributes)
     target = attributes[-1]
     df_g=df.groupby('class')
     df_2=df_g.get_group(2)
