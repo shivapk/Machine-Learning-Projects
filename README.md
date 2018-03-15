@@ -1,7 +1,10 @@
 # Machine-Learning-Projects
-Machine learning concepts like Regression, Decision trees, SVM, Neural Networks implemented using Python.
+Supervised, Unsupervised and Semi-Supervised Machine Learning Algorithms implemented using Python, TensorFlow, Keras, Theano, Pytorch.
 
-Three steps.
-1) Representation - basic Model
-2) Evaluation     - learn Model parameters
-3) Optimization   - To minimize error or improve accuracy
+Five steps.
+1) Data Preprocessing
+2) Feature Engineering
+3) Training
+4) Parameter tuning
+5) Inference
+
